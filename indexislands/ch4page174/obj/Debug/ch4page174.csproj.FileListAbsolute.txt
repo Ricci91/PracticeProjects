@@ -1,0 +1,10 @@
+C:\Users\froyl\source\repos\ch4page174\ch4page174\bin\Debug\ch4page174.exe.config
+C:\Users\froyl\source\repos\ch4page174\ch4page174\bin\Debug\ch4page174.exe
+C:\Users\froyl\source\repos\ch4page174\ch4page174\bin\Debug\ch4page174.pdb
+C:\Users\froyl\source\repos\ch4page174\ch4page174\obj\Debug\ch4page174.csprojAssemblyReference.cache
+C:\Users\froyl\source\repos\ch4page174\ch4page174\obj\Debug\ch4page174.Form1.resources
+C:\Users\froyl\source\repos\ch4page174\ch4page174\obj\Debug\ch4page174.Properties.Resources.resources
+C:\Users\froyl\source\repos\ch4page174\ch4page174\obj\Debug\ch4page174.csproj.GenerateResource.cache
+C:\Users\froyl\source\repos\ch4page174\ch4page174\obj\Debug\ch4page174.csproj.CoreCompileInputs.cache
+C:\Users\froyl\source\repos\ch4page174\ch4page174\obj\Debug\ch4page174.exe
+C:\Users\froyl\source\repos\ch4page174\ch4page174\obj\Debug\ch4page174.pdb

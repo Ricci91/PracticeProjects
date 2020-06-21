@@ -1,0 +1,7 @@
+C:\Users\froyl\source\repos\Pool Puzzle page 263\Pool Puzzle page 263\bin\Debug\Pool Puzzle page 263.exe.config
+C:\Users\froyl\source\repos\Pool Puzzle page 263\Pool Puzzle page 263\bin\Debug\Pool Puzzle page 263.exe
+C:\Users\froyl\source\repos\Pool Puzzle page 263\Pool Puzzle page 263\bin\Debug\Pool Puzzle page 263.pdb
+C:\Users\froyl\source\repos\Pool Puzzle page 263\Pool Puzzle page 263\obj\Debug\Pool Puzzle page 263.csprojAssemblyReference.cache
+C:\Users\froyl\source\repos\Pool Puzzle page 263\Pool Puzzle page 263\obj\Debug\Pool Puzzle page 263.csproj.CoreCompileInputs.cache
+C:\Users\froyl\source\repos\Pool Puzzle page 263\Pool Puzzle page 263\obj\Debug\Pool Puzzle page 263.exe
+C:\Users\froyl\source\repos\Pool Puzzle page 263\Pool Puzzle page 263\obj\Debug\Pool Puzzle page 263.pdb

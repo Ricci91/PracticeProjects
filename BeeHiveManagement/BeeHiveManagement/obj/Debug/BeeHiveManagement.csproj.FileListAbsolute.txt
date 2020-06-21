@@ -1,0 +1,10 @@
+C:\Users\froyl\source\repos\BeeHiveManagement\BeeHiveManagement\bin\Debug\BeeHiveManagement.exe.config
+C:\Users\froyl\source\repos\BeeHiveManagement\BeeHiveManagement\bin\Debug\BeeHiveManagement.exe
+C:\Users\froyl\source\repos\BeeHiveManagement\BeeHiveManagement\bin\Debug\BeeHiveManagement.pdb
+C:\Users\froyl\source\repos\BeeHiveManagement\BeeHiveManagement\obj\Debug\BeeHiveManagement.csprojAssemblyReference.cache
+C:\Users\froyl\source\repos\BeeHiveManagement\BeeHiveManagement\obj\Debug\BeeHiveManagement.Form1.resources
+C:\Users\froyl\source\repos\BeeHiveManagement\BeeHiveManagement\obj\Debug\BeeHiveManagement.Properties.Resources.resources
+C:\Users\froyl\source\repos\BeeHiveManagement\BeeHiveManagement\obj\Debug\BeeHiveManagement.csproj.GenerateResource.cache
+C:\Users\froyl\source\repos\BeeHiveManagement\BeeHiveManagement\obj\Debug\BeeHiveManagement.csproj.CoreCompileInputs.cache
+C:\Users\froyl\source\repos\BeeHiveManagement\BeeHiveManagement\obj\Debug\BeeHiveManagement.exe
+C:\Users\froyl\source\repos\BeeHiveManagement\BeeHiveManagement\obj\Debug\BeeHiveManagement.pdb

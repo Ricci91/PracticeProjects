@@ -1,0 +1,10 @@
+C:\Users\froyl\source\repos\ch5page200\ch5page200\obj\Debug\ch5page200.csprojAssemblyReference.cache
+C:\Users\froyl\source\repos\ch5page200\ch5page200\obj\Debug\ch5page200.Form1.resources
+C:\Users\froyl\source\repos\ch5page200\ch5page200\obj\Debug\ch5page200.Properties.Resources.resources
+C:\Users\froyl\source\repos\ch5page200\ch5page200\obj\Debug\ch5page200.csproj.GenerateResource.cache
+C:\Users\froyl\source\repos\ch5page200\ch5page200\obj\Debug\ch5page200.csproj.CoreCompileInputs.cache
+C:\Users\froyl\source\repos\ch5page200\ch5page200\bin\Debug\ch5page200.exe.config
+C:\Users\froyl\source\repos\ch5page200\ch5page200\bin\Debug\ch5page200.exe
+C:\Users\froyl\source\repos\ch5page200\ch5page200\bin\Debug\ch5page200.pdb
+C:\Users\froyl\source\repos\ch5page200\ch5page200\obj\Debug\ch5page200.exe
+C:\Users\froyl\source\repos\ch5page200\ch5page200\obj\Debug\ch5page200.pdb

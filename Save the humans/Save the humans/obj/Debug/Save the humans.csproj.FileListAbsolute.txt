@@ -1,0 +1,15 @@
+C:\Users\froyl\source\repos\Save the humans\Save the humans\bin\Debug\Save the humans.exe.config
+C:\Users\froyl\source\repos\Save the humans\Save the humans\bin\Debug\Save the humans.exe
+C:\Users\froyl\source\repos\Save the humans\Save the humans\bin\Debug\Save the humans.pdb
+C:\Users\froyl\source\repos\Save the humans\Save the humans\obj\Debug\Save the humans.csprojAssemblyReference.cache
+C:\Users\froyl\source\repos\Save the humans\Save the humans\obj\Debug\MainWindow.g.cs
+C:\Users\froyl\source\repos\Save the humans\Save the humans\obj\Debug\App.g.cs
+C:\Users\froyl\source\repos\Save the humans\Save the humans\obj\Debug\Save the humans_MarkupCompile.cache
+C:\Users\froyl\source\repos\Save the humans\Save the humans\obj\Debug\Save the humans_MarkupCompile.lref
+C:\Users\froyl\source\repos\Save the humans\Save the humans\obj\Debug\MainWindow.baml
+C:\Users\froyl\source\repos\Save the humans\Save the humans\obj\Debug\Save the humans.g.resources
+C:\Users\froyl\source\repos\Save the humans\Save the humans\obj\Debug\Save_the_humans.Properties.Resources.resources
+C:\Users\froyl\source\repos\Save the humans\Save the humans\obj\Debug\Save the humans.csproj.GenerateResource.cache
+C:\Users\froyl\source\repos\Save the humans\Save the humans\obj\Debug\Save the humans.csproj.CoreCompileInputs.cache
+C:\Users\froyl\source\repos\Save the humans\Save the humans\obj\Debug\Save the humans.exe
+C:\Users\froyl\source\repos\Save the humans\Save the humans\obj\Debug\Save the humans.pdb

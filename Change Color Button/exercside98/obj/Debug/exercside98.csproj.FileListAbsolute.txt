@@ -1,0 +1,10 @@
+C:\Users\froyl\source\repos\exercside98\exercside98\obj\Debug\exercside98.csprojAssemblyReference.cache
+C:\Users\froyl\source\repos\exercside98\exercside98\obj\Debug\exercside98.Form1.resources
+C:\Users\froyl\source\repos\exercside98\exercside98\obj\Debug\exercside98.Properties.Resources.resources
+C:\Users\froyl\source\repos\exercside98\exercside98\obj\Debug\exercside98.csproj.GenerateResource.cache
+C:\Users\froyl\source\repos\exercside98\exercside98\obj\Debug\exercside98.csproj.CoreCompileInputs.cache
+C:\Users\froyl\source\repos\exercside98\exercside98\bin\Debug\exercside98.exe.config
+C:\Users\froyl\source\repos\exercside98\exercside98\bin\Debug\exercside98.exe
+C:\Users\froyl\source\repos\exercside98\exercside98\bin\Debug\exercside98.pdb
+C:\Users\froyl\source\repos\exercside98\exercside98\obj\Debug\exercside98.exe
+C:\Users\froyl\source\repos\exercside98\exercside98\obj\Debug\exercside98.pdb

@@ -1,0 +1,7 @@
+C:\Users\froyl\source\repos\Ch6page266\Ch6page266\bin\Debug\Ch6page266.exe.config
+C:\Users\froyl\source\repos\Ch6page266\Ch6page266\bin\Debug\Ch6page266.exe
+C:\Users\froyl\source\repos\Ch6page266\Ch6page266\bin\Debug\Ch6page266.pdb
+C:\Users\froyl\source\repos\Ch6page266\Ch6page266\obj\Debug\Ch6page266.csprojAssemblyReference.cache
+C:\Users\froyl\source\repos\Ch6page266\Ch6page266\obj\Debug\Ch6page266.csproj.CoreCompileInputs.cache
+C:\Users\froyl\source\repos\Ch6page266\Ch6page266\obj\Debug\Ch6page266.exe
+C:\Users\froyl\source\repos\Ch6page266\Ch6page266\obj\Debug\Ch6page266.pdb

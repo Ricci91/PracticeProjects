@@ -1,0 +1,15 @@
+C:\Users\froyl\source\repos\GroundUpChapter2WPF\GroundUpChapter2WPF\bin\Debug\GroundUpChapter2WPF.exe.config
+C:\Users\froyl\source\repos\GroundUpChapter2WPF\GroundUpChapter2WPF\bin\Debug\GroundUpChapter2WPF.exe
+C:\Users\froyl\source\repos\GroundUpChapter2WPF\GroundUpChapter2WPF\bin\Debug\GroundUpChapter2WPF.pdb
+C:\Users\froyl\source\repos\GroundUpChapter2WPF\GroundUpChapter2WPF\obj\Debug\GroundUpChapter2WPF.csprojAssemblyReference.cache
+C:\Users\froyl\source\repos\GroundUpChapter2WPF\GroundUpChapter2WPF\obj\Debug\MainWindow.g.cs
+C:\Users\froyl\source\repos\GroundUpChapter2WPF\GroundUpChapter2WPF\obj\Debug\App.g.cs
+C:\Users\froyl\source\repos\GroundUpChapter2WPF\GroundUpChapter2WPF\obj\Debug\GroundUpChapter2WPF_MarkupCompile.cache
+C:\Users\froyl\source\repos\GroundUpChapter2WPF\GroundUpChapter2WPF\obj\Debug\GroundUpChapter2WPF_MarkupCompile.lref
+C:\Users\froyl\source\repos\GroundUpChapter2WPF\GroundUpChapter2WPF\obj\Debug\MainWindow.baml
+C:\Users\froyl\source\repos\GroundUpChapter2WPF\GroundUpChapter2WPF\obj\Debug\GroundUpChapter2WPF.g.resources
+C:\Users\froyl\source\repos\GroundUpChapter2WPF\GroundUpChapter2WPF\obj\Debug\GroundUpChapter2WPF.Properties.Resources.resources
+C:\Users\froyl\source\repos\GroundUpChapter2WPF\GroundUpChapter2WPF\obj\Debug\GroundUpChapter2WPF.csproj.GenerateResource.cache
+C:\Users\froyl\source\repos\GroundUpChapter2WPF\GroundUpChapter2WPF\obj\Debug\GroundUpChapter2WPF.csproj.CoreCompileInputs.cache
+C:\Users\froyl\source\repos\GroundUpChapter2WPF\GroundUpChapter2WPF\obj\Debug\GroundUpChapter2WPF.exe
+C:\Users\froyl\source\repos\GroundUpChapter2WPF\GroundUpChapter2WPF\obj\Debug\GroundUpChapter2WPF.pdb

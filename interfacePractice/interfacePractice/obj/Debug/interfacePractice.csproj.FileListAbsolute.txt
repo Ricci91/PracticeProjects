@@ -1,0 +1,7 @@
+C:\Users\froyl\source\repos\interfacePractice\interfacePractice\bin\Debug\interfacePractice.exe.config
+C:\Users\froyl\source\repos\interfacePractice\interfacePractice\bin\Debug\interfacePractice.exe
+C:\Users\froyl\source\repos\interfacePractice\interfacePractice\bin\Debug\interfacePractice.pdb
+C:\Users\froyl\source\repos\interfacePractice\interfacePractice\obj\Debug\interfacePractice.csprojAssemblyReference.cache
+C:\Users\froyl\source\repos\interfacePractice\interfacePractice\obj\Debug\interfacePractice.csproj.CoreCompileInputs.cache
+C:\Users\froyl\source\repos\interfacePractice\interfacePractice\obj\Debug\interfacePractice.exe
+C:\Users\froyl\source\repos\interfacePractice\interfacePractice\obj\Debug\interfacePractice.pdb

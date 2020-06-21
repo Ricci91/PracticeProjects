@@ -1,0 +1,10 @@
+C:\Users\froyl\source\repos\ch3page105task\ch3page105task\bin\Debug\ch3page105task.exe.config
+C:\Users\froyl\source\repos\ch3page105task\ch3page105task\bin\Debug\ch3page105task.exe
+C:\Users\froyl\source\repos\ch3page105task\ch3page105task\bin\Debug\ch3page105task.pdb
+C:\Users\froyl\source\repos\ch3page105task\ch3page105task\obj\Debug\ch3page105task.csprojAssemblyReference.cache
+C:\Users\froyl\source\repos\ch3page105task\ch3page105task\obj\Debug\ch3page105task.Form1.resources
+C:\Users\froyl\source\repos\ch3page105task\ch3page105task\obj\Debug\ch3page105task.Properties.Resources.resources
+C:\Users\froyl\source\repos\ch3page105task\ch3page105task\obj\Debug\ch3page105task.csproj.GenerateResource.cache
+C:\Users\froyl\source\repos\ch3page105task\ch3page105task\obj\Debug\ch3page105task.csproj.CoreCompileInputs.cache
+C:\Users\froyl\source\repos\ch3page105task\ch3page105task\obj\Debug\ch3page105task.exe
+C:\Users\froyl\source\repos\ch3page105task\ch3page105task\obj\Debug\ch3page105task.pdb

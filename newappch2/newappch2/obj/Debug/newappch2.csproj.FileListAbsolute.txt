@@ -1,0 +1,5 @@
+C:\Users\froyl\source\repos\newappch2\newappch2\obj\Debug\newappch2.csprojAssemblyReference.cache
+C:\Users\froyl\source\repos\newappch2\newappch2\obj\Debug\newappch2.Form1.resources
+C:\Users\froyl\source\repos\newappch2\newappch2\obj\Debug\newappch2.Properties.Resources.resources
+C:\Users\froyl\source\repos\newappch2\newappch2\obj\Debug\newappch2.csproj.GenerateResource.cache
+C:\Users\froyl\source\repos\newappch2\newappch2\obj\Debug\newappch2.csproj.CoreCompileInputs.cache

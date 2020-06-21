@@ -1,0 +1,10 @@
+C:\Users\froyl\source\repos\DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.csprojAssemblyReference.cache
+C:\Users\froyl\source\repos\DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.Form1.resources
+C:\Users\froyl\source\repos\DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.Properties.Resources.resources
+C:\Users\froyl\source\repos\DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.csproj.GenerateResource.cache
+C:\Users\froyl\source\repos\DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.csproj.CoreCompileInputs.cache
+C:\Users\froyl\source\repos\DayAtTheRaces\DayAtTheRaces\bin\Debug\DayAtTheRaces.exe.config
+C:\Users\froyl\source\repos\DayAtTheRaces\DayAtTheRaces\bin\Debug\DayAtTheRaces.exe
+C:\Users\froyl\source\repos\DayAtTheRaces\DayAtTheRaces\bin\Debug\DayAtTheRaces.pdb
+C:\Users\froyl\source\repos\DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.exe
+C:\Users\froyl\source\repos\DayAtTheRaces\DayAtTheRaces\obj\Debug\DayAtTheRaces.pdb

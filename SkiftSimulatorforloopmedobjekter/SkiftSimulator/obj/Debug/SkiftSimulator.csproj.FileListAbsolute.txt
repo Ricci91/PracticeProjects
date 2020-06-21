@@ -1,0 +1,10 @@
+C:\Users\froyl\source\repos\SkiftSimulator\SkiftSimulator\bin\Debug\SkiftSimulator.exe.config
+C:\Users\froyl\source\repos\SkiftSimulator\SkiftSimulator\bin\Debug\SkiftSimulator.exe
+C:\Users\froyl\source\repos\SkiftSimulator\SkiftSimulator\bin\Debug\SkiftSimulator.pdb
+C:\Users\froyl\source\repos\SkiftSimulator\SkiftSimulator\obj\Debug\SkiftSimulator.csprojAssemblyReference.cache
+C:\Users\froyl\source\repos\SkiftSimulator\SkiftSimulator\obj\Debug\SkiftSimulator.Form1.resources
+C:\Users\froyl\source\repos\SkiftSimulator\SkiftSimulator\obj\Debug\SkiftSimulator.Properties.Resources.resources
+C:\Users\froyl\source\repos\SkiftSimulator\SkiftSimulator\obj\Debug\SkiftSimulator.csproj.GenerateResource.cache
+C:\Users\froyl\source\repos\SkiftSimulator\SkiftSimulator\obj\Debug\SkiftSimulator.csproj.CoreCompileInputs.cache
+C:\Users\froyl\source\repos\SkiftSimulator\SkiftSimulator\obj\Debug\SkiftSimulator.exe
+C:\Users\froyl\source\repos\SkiftSimulator\SkiftSimulator\obj\Debug\SkiftSimulator.pdb

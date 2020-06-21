@@ -1,0 +1,10 @@
+C:\Users\froyl\source\repos\rebuildappch2\rebuildappch2\bin\Debug\rebuildappch2.exe.config
+C:\Users\froyl\source\repos\rebuildappch2\rebuildappch2\bin\Debug\rebuildappch2.exe
+C:\Users\froyl\source\repos\rebuildappch2\rebuildappch2\bin\Debug\rebuildappch2.pdb
+C:\Users\froyl\source\repos\rebuildappch2\rebuildappch2\obj\Debug\rebuildappch2.csprojAssemblyReference.cache
+C:\Users\froyl\source\repos\rebuildappch2\rebuildappch2\obj\Debug\rebuildappch2.Form1.resources
+C:\Users\froyl\source\repos\rebuildappch2\rebuildappch2\obj\Debug\rebuildappch2.Properties.Resources.resources
+C:\Users\froyl\source\repos\rebuildappch2\rebuildappch2\obj\Debug\rebuildappch2.csproj.GenerateResource.cache
+C:\Users\froyl\source\repos\rebuildappch2\rebuildappch2\obj\Debug\rebuildappch2.csproj.CoreCompileInputs.cache
+C:\Users\froyl\source\repos\rebuildappch2\rebuildappch2\obj\Debug\rebuildappch2.exe
+C:\Users\froyl\source\repos\rebuildappch2\rebuildappch2\obj\Debug\rebuildappch2.pdb

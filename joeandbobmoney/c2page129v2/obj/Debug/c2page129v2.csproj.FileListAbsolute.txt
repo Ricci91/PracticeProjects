@@ -1,0 +1,10 @@
+C:\Users\froyl\source\repos\c2page129v2\c2page129v2\bin\Debug\c2page129v2.exe.config
+C:\Users\froyl\source\repos\c2page129v2\c2page129v2\bin\Debug\c2page129v2.exe
+C:\Users\froyl\source\repos\c2page129v2\c2page129v2\bin\Debug\c2page129v2.pdb
+C:\Users\froyl\source\repos\c2page129v2\c2page129v2\obj\Debug\c2page129v2.csprojAssemblyReference.cache
+C:\Users\froyl\source\repos\c2page129v2\c2page129v2\obj\Debug\c2page129v2.Properties.Resources.resources
+C:\Users\froyl\source\repos\c2page129v2\c2page129v2\obj\Debug\c2page129v2.csproj.GenerateResource.cache
+C:\Users\froyl\source\repos\c2page129v2\c2page129v2\obj\Debug\c2page129v2.csproj.CoreCompileInputs.cache
+C:\Users\froyl\source\repos\c2page129v2\c2page129v2\obj\Debug\c2page129v2.exe
+C:\Users\froyl\source\repos\c2page129v2\c2page129v2\obj\Debug\c2page129v2.pdb
+C:\Users\froyl\source\repos\c2page129v2\c2page129v2\obj\Debug\c2page129v2.Form1.resources

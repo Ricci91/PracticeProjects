@@ -1,0 +1,7 @@
+C:\Users\froyl\source\repos\CollectionsPluralsightKurs\CollectionsPluralsightKurs\bin\Debug\CollectionsPluralsightKurs.exe.config
+C:\Users\froyl\source\repos\CollectionsPluralsightKurs\CollectionsPluralsightKurs\bin\Debug\CollectionsPluralsightKurs.exe
+C:\Users\froyl\source\repos\CollectionsPluralsightKurs\CollectionsPluralsightKurs\bin\Debug\CollectionsPluralsightKurs.pdb
+C:\Users\froyl\source\repos\CollectionsPluralsightKurs\CollectionsPluralsightKurs\obj\Debug\CollectionsPluralsightKurs.csprojAssemblyReference.cache
+C:\Users\froyl\source\repos\CollectionsPluralsightKurs\CollectionsPluralsightKurs\obj\Debug\CollectionsPluralsightKurs.csproj.CoreCompileInputs.cache
+C:\Users\froyl\source\repos\CollectionsPluralsightKurs\CollectionsPluralsightKurs\obj\Debug\CollectionsPluralsightKurs.exe
+C:\Users\froyl\source\repos\CollectionsPluralsightKurs\CollectionsPluralsightKurs\obj\Debug\CollectionsPluralsightKurs.pdb
